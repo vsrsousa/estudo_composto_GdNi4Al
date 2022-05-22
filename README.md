@@ -1,4 +1,4 @@
-# Estudo do composto GdNi_4Al
+# Estudo do composto GdNi$_4$Al
 
 # em desenvolvimento
 
