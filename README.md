@@ -1,6 +1,5 @@
-# Estudo do composto GdNi4Al
+# Estudo do composto GdNi4Al (em desenvolvimento)
 
-# em desenvolvimento
 
 O efeito magnetocalórico consiste no aumento da temperatura do material ao se
 aplicar um campo magnético externo, e quando o campo é retirado o material
