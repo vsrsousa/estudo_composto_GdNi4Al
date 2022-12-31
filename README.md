@@ -8,8 +8,6 @@ que descrevem esses tipos de materiais, sobretudo o composto GdNi4Al e futuramen
 estudar o composto GdNi2 e GdAl2. Nessa primeira abordagem foi incluso somente
 a interação de troca e de Zeeman.
 
-$a=b+c$
-
 Assim, utilizo a linguagem Python para fazer cálculos numéricos (baseados
 no método da autoconsciência) acerca de propriedades termodinâmicas do
 sistema e comparo com resultados experimentais.
